@@ -1,13 +1,4 @@
-"""
-Sentence Auto Completer Bot
-----------------------------
-A Streamlit app that predicts the next word / auto-completes sentences
-using RNN and LSTM models trained (from scratch, in PyTorch) on a
-dataset of famous quotes.
 
-Run with:
-    streamlit run app.py
-"""
 
 import pickle
 import string
